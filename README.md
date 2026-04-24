@@ -1,4 +1,4 @@
-# MELINE Project 
+# Meline Project 
 
 A modern landing page build with HTML and SCSS.
 
