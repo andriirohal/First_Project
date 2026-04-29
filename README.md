@@ -10,7 +10,7 @@ A modern, responsive landing page built with HTML and SCSS.
 Clean and semantic markup for better structure and accessibility.
 
 ### 🎨 SCSS Architecture  
-Modular structure with (base, components, and mixins) for clean organization and better maintainability.
+Modular structure with (base, components, and mixins) for a clean, scalable, and modern codebase.
 
 ### 📱 Responsive Design  
 Mobile-first layout ensuring smooth adaptation across all screen sizes.
