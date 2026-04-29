@@ -1,15 +1,22 @@
-# Meline Project 
+# ✨ Meline Project
 
-A modern landing page build with HTML and SCSS.
+A modern, responsive landing page built with HTML and SCSS.
 
-## Features 
+---
 
-HTML5:** Clean and accesible markup.
+## 🚀 Features
 
-SCSS Architecture:** folder structure (base, components, mixins).
+### HTML5  
+Clean and semantic markup.
 
-Responsive layout:** (mobile-first aproach)
+### SCSS Architecture  
+Organized structure with base, components, and mixins.
 
-## Responsive Design:
+### Responsive Design  
+Mobile-first layout for all screen sizes.
 
-Optimized for every screen sizes. 
+---
+
+## 📱 Responsive
+
+Fully optimized for mobile, tablet, and desktop devices.
