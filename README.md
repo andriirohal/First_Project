@@ -7,13 +7,13 @@ A modern, responsive landing page built with HTML and SCSS.
 ## 🚀 Features
 
 ### 🧱 HTML5  
-Clean and semantic markup for better structure and accessibility.
+Clean, semantic, and accessible markup.
 
-### 🎨 SCSS Architecture  
-Modular structure with (base, components, and mixins) built for clarity, reuse, and scalable styling.
+### 🎨 SCSS Architecture 
+Modular structure with (base, components, and mixins) for clean, reusable styles.
 
 ### 📱 Responsive Design  
-Mobile-first layout ensuring smooth adaptation across all screen sizes.
+Mobile-first approach for smooth adaptation across all screen sizes.
 
 ---
 
